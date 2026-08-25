@@ -1,0 +1,4 @@
+interface:
+  display_name: "格拉夫微信推文文案大师"
+  short_description: "撰写格拉夫微信推文文案"
+  default_prompt: "Use $graff-wechat-copywriter to understand my Graff WeChat post outline first, then draft the copy after I confirm."
